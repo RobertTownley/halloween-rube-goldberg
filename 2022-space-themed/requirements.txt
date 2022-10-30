@@ -1,0 +1,9 @@
+async-timeout==4.0.2
+bleak==0.18.1
+dpath==2.0.6
+PyBluez==0.30
+pyobjc-core==8.5.1
+pyobjc-framework-Cocoa==8.5.1
+pyobjc-framework-CoreBluetooth==8.5.1
+pyobjc-framework-libdispatch==8.5.1
+python-lightblue==1.0.3
